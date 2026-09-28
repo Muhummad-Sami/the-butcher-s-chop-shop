@@ -1,0 +1,6 @@
+{
+  "name": "The Butcher's Chop Shop | Manchester Barber",
+  "description": "Modern, premium barber shop website concept for The Butcher's Chop Shop at 8 St Ann's Square, Manchester. Sharp cuts, fades, and online booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
